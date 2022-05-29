@@ -1,5 +1,5 @@
 import './App.css';
-import Tracker from './components/Tracker'
+import Tracker from './pages/Tracker'
 
 function App() {
   return (
